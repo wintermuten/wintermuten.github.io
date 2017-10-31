@@ -11,3 +11,4 @@ exclude:
   - Gemfile.lock
 
 mathjax: true
+disqus_shortname: wintermuten-github-io
