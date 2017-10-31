@@ -1,0 +1,13 @@
+title: wintermuteⁿ
+author: W
+email: wintermuten@gmail.com
+color_scheme: native #github # this specifies color scheme for syntax highlighting
+github_username: wintermuten
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+mathjax: true
