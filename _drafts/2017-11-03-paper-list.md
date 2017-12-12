@@ -5,7 +5,7 @@ tags: techart
 cover_url: ../../../assets/img/reading.jpg
 ---
 
-# Week of Nov 5, 2017 
+# Week of Nov 26, 2017 
 + _capsules_ [Dynamic Routing between Capsules](https://arxiv.org/abs/1710.09829)
 + _capsules_ [Matrix capsules with EM routing](https://openreview.net/pdf?id=HJWLfGWRb)
 + _nnsearch_ [Large scale Evolution of Image Classifiers](https://arxiv.org/pdf/1703.01041.pdf)
